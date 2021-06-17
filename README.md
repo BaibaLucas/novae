@@ -1,6 +1,6 @@
 # NOVAE
 
-![Novae Presentation](https://github.com/BaibaLucas/novae/src/assets/images/presentation.png "presentation novae")
+![Novae Presentation](https://github.com/BaibaLucas/novae/blob/main/src/assets/images/presentation.png "presentation novae")
 
 ## About The project
 
