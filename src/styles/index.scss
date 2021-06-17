@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,600,800&display=swap");
+
+@import './vars';
+
+/* --- Components styles --- */
+@import '../components/Header/header';
+@import '../components/Home/home';
+@import '../components/Opportunities/opportunities';
+@import '../components/Solutions/solutions';
+@import '../components/Contact/contact';
+@import '../components/Hamburger/hamburger';
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  height: 100%;
+  width: 100%;
+}

@@ -1,0 +1,32 @@
+.header {
+  height: 100px;
+  &__container {
+    margin: 0 auto;
+    &__wrapper {
+      padding: 0 48px;
+      &__inner-header {
+        position: relative;
+        z-index: 10;
+        height: 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items:center;
+        &__logo {
+          font-weight: 700;
+          text-decoration: none;
+          color: $black;
+        }
+        &__menu {
+          &__button {
+            border: none;
+            background: none;
+            outline: none;
+            cursor: pointer;
+            font-size: .8rem;
+            color: $black;
+          }
+        }
+      }
+    }
+  }
+}
